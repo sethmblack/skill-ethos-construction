@@ -1,11 +1,10 @@
 ---
 name: ethos-construction
-description: Build character-based credibility and trust with any audience through
-  demonstrated virtue, practical wisdom, and genuine goodwill.
+description: Build character-based credibility and trust with any audience through demonstrated virtue, practical wisdom, and genuine goodwill.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - ethos-construction
 - writing
